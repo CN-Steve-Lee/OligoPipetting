@@ -1,0 +1,5 @@
+D:\Projects\GeneWiz\trunk\OligoPipetting\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\Projects\GeneWiz\trunk\OligoPipetting\Utility\bin\Debug\Utility.dll
+D:\Projects\GeneWiz\trunk\OligoPipetting\Utility\bin\Debug\Utility.pdb
+D:\Projects\GeneWiz\trunk\OligoPipetting\Utility\obj\Debug\Utility.dll
+D:\Projects\GeneWiz\trunk\OligoPipetting\Utility\obj\Debug\Utility.pdb
